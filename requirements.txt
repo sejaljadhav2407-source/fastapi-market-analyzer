@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+google-generativeai
+python-jose
+slowapi
+beautifulsoup4
