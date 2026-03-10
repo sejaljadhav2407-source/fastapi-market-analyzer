@@ -165,12 +165,6 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 
 ---
 
-# 📜 License
-
-MIT License
-
----
-
 # 👨‍💻 Author
 
 Developed by **sejal jadhav**
